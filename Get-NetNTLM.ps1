@@ -174,3 +174,4 @@ $NetNTLM_ScriptBlock = {
     Stop-Job -Job $job
     Remove-Job -Job $job    
 }
+Get-NetNTLM-Hash
